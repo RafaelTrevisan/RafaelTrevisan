@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Rafael Trevisan de Mello, tenho 27 anos e sou do interior de São Paulo. Sou graduado em Sistemas de Informação, e atuo na área de Qualidade de Software. Sou um cara muito curioso, e quando quero aprender algo, vou até o final.
+Me chamo Rafael Trevisan de Mello, tenho 27 anos e sou do interior de São Paulo. Sou graduado em Sistemas de Informação, e atuo na área de Qualidade de Software. Sou um cara muito curioso, e quando quero aprender algo, vou até o final! Por isso procuro sempre aprimorar minhas habilidades com estudos de automação e incrementar com CI/CD em meus projetos.
 
 ---
 
